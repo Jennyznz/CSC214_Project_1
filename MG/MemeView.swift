@@ -37,6 +37,6 @@ struct MemeView: View {
                 .frame(height: 100)
     
         }
-        .navigationBarHidden(true)
+        //.navigationBarHidden(true)
     }
 }
